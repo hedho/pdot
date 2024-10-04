@@ -107,6 +107,16 @@ popupHeight=432
 popupWidth=432
 wallpaperplugin=org.kde.image
 
+[Containments][57][Applets][106]
+immutability=1
+plugin=org.kde.plasma.bluetooth
+
+[Containments][57][Applets][106][Configuration]
+PreloadWeight=60
+
+[Containments][57][Applets][107][Configuration]
+PreloadWeight=26
+
 [Containments][57][Applets][58]
 immutability=1
 plugin=org.kde.plasma.cameraindicator
@@ -249,6 +259,10 @@ plugin=org.kde.plasma.networkmanagement
 
 [Containments][84][Applets][101][Configuration]
 PreloadWeight=42
+
+[Containments][84][Applets][107]
+immutability=1
+plugin=org.kde.plasma.bluetooth
 
 [Containments][84][Applets][85]
 immutability=1
