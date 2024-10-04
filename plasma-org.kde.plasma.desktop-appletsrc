@@ -85,7 +85,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][51][Applets][69][Configuration]
-PreloadWeight=75
+PreloadWeight=80
 popupHeight=450
 popupWidth=560
 
@@ -218,7 +218,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][78][Applets][81][Configuration][General]
-launchers=preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,file:///home/polymath/Desktop/steam.desktop,applications:org.gajim.Gajim.desktop,applications:org.telegram.desktop.desktop,applications:org.mozilla.Thunderbird.desktop,file:///var/lib/flatpak/exports/share/applications/com.rustdesk.RustDesk.desktop,applications:com.discordapp.Discord.desktop,applications:virt-manager.desktop,file:///var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop
+launchers=preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.gajim.Gajim.desktop,applications:org.telegram.desktop.desktop,applications:org.mozilla.Thunderbird.desktop,file:///var/lib/flatpak/exports/share/applications/com.mikrotik.WinBox.desktop,file:///var/lib/flatpak/exports/share/applications/com.rustdesk.RustDesk.desktop,applications:com.discordapp.Discord.desktop,applications:virt-manager.desktop,file:///var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop
 
 [Containments][78][Applets][82]
 immutability=1
