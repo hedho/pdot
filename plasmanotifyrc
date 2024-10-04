@@ -1,0 +1,12 @@
+[Applications][im.dino.Dino]
+Seen=true
+
+[Applications][im.nheko.Nheko]
+Seen=true
+
+[Applications][org.gajim.Gajim]
+Seen=true
+
+[Notifications]
+PopupPosition=TopRight
+PopupTimeout=3000

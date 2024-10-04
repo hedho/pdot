@@ -1,0 +1,7 @@
+[General]
+Index=HAX.AL
+
+[HAX.AL]
+Port=21
+Type=FTP
+URL=ftp://hax@hax.al:21/

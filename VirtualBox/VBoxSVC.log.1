@@ -1,0 +1,77 @@
+00:00:00.000337 main     VirtualBox XPCOM Server 7.1.2 r164945 linux.amd64 (Sep 27 2024 17:46:37) release log
+00:00:00.000339 main     Log opened 2024-09-29T22:22:15.022182000Z
+00:00:00.000340 main     Build Type: release
+00:00:00.000342 main     OS Product: Linux
+00:00:00.000344 main     OS Release: 6.10.10-arch1-1
+00:00:00.000345 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 12 Sep 2024 17:21:02 +0000
+00:00:00.000365 main     DMI Product Name: 20F1S0N700
+00:00:00.000375 main     DMI Product Version: ThinkPad L560
+00:00:00.000380 main     Firmware type: UEFI
+00:00:00.000993 main     Secure Boot: Disabled
+00:00:00.001033 main     Host RAM: 15860MB (15.4GB) total, 15088MB (14.7GB) available
+00:00:00.001053 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001054 main     Process ID: 1251
+00:00:00.001055 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003474 main     IPC socket path: /tmp/.vbox-polymath-ipc/ipcd
+00:00:00.064005 DCon01   VirtualBox: object creation starts
+00:00:00.064091 DCon01   Home directory: '/home/polymath/.config/VirtualBox'
+00:00:00.064249 DCon01   Loading settings file "/home/polymath/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.066321 DCon01   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2b)
+00:00:00.066417 DCon01   Successfully initialised host USB using sysfs
+00:00:00.096005 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.097028 DCon01   HostDnsMonitor: initializing
+00:00:00.097476 DCon01   NAT: resolv.conf: nameserver 192.168.10.1
+00:00:00.097500 DCon01   HostDnsMonitor: updating information
+00:00:00.097512 DCon01   HostDnsMonitor: old information
+00:00:00.097516 DCon01     no server entries
+00:00:00.097520 DCon01     no domain set
+00:00:00.097523 DCon01     no search string entries
+00:00:00.097527 DCon01   HostDnsMonitor: new information
+00:00:00.097531 DCon01     server 1: 192.168.10.1
+00:00:00.097535 DCon01     domain: lan
+00:00:00.097539 DCon01     search string 1: lan
+00:00:00.099545 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.099705 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.099795 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.100378 DCon01   Platform architecture set to 'x86'
+00:00:00.100715 DCon01   Loading settings file "/home/polymath/VirtualBox VMs/archlinux/archlinux.vbox" with version "1.19-linux"
+00:00:00.100850 DCon01   Platform architecture set to 'x86'
+00:00:00.101473 DCon01   VirtualBox: object created
+00:00:00.303766 DCon02   Saving settings file "/home/polymath/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.317181 DCon02   Finished saving settings file "/home/polymath/.config/VirtualBox/VirtualBox.xml"
+00:00:01.160593 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:01.162526 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:01.290456 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:06.667806 DCon01   Launched VM: 205744816 pid: 1298 (0x512) frontend: GUI/Qt name: archlinux
+00:00:06.740798 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:06.742945 DCon03   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:06.780260 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:07.169128 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'archlinux' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:07.292276 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:07.293985 DCon03   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:07.317477 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:27.601884 DCon02   Platform architecture set to 'x86'
+00:00:27.606922 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:27.608397 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:27.608607 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:27.608808 DCon05   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:27.668281 DCon05   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:27.709798 DCon07   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:28.363079 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:28.364900 DCon07   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:28.369486 DCon07   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:34.853876 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:39.845529 DCon07   Launched VM: 205656592 pid: 1363 (0x553) frontend: GUI/Qt name: archlinux
+00:00:39.909386 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:39.911701 DCon07   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:39.937952 DCon05   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:40.347194 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'archlinux' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:00:40.480231 DCon07   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:40.482127 DCon07   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:40.506170 DCon07   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:59.673783 main     VirtualBox: object deletion starts
+00:01:59.673884 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/polymath/VirtualBox VMs/archlinux/archlinux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:59.677260 main     HostDnsMonitor: shutting down ...
+00:01:59.677700 main     HostDnsMonitor: shut down
+00:01:59.688640 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:59.688716 main     VirtualBox: object deleted

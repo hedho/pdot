@@ -1,0 +1,7 @@
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint Stick]
+PointerAccelerationProfile=1
+
+[Libinput][2][8][AlpsPS/2 ALPS DualPoint TouchPad]
+DisableWhileTyping=true
+NaturalScroll=true
+PointerAccelerationProfile=1
