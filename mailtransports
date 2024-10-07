@@ -1,0 +1,30 @@
+[General]
+default-transport=244712311
+
+[Transport 1191928327]
+auth=true
+authtype=XOAUTH2
+host=smtp.gmail.com
+id=1191928327
+name=SMTP (arianitkukaj@gmail.com)
+port=465
+storepass=true
+user=arianitkukaj@gmail.com
+
+[Transport 1816730627]
+auth=true
+authtype=XOAUTH2
+host=smtp.gmail.com
+id=1816730627
+name=SMTP (arianitkukaj@gmail.com)
+port=465
+storepass=true
+user=arianitkukaj@gmail.com
+
+[Transport 244712311]
+authtype=LOGIN
+host=mail.hax.al
+id=244712311
+name=SMTP (polymath@hax.al)
+storepass=true
+user=polymath@hax.al

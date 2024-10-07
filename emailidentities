@@ -1,0 +1,39 @@
+[General]
+Default Identity=1934835113
+
+[Identity #0]
+Default Domain=polymath
+Disable Fcc=false
+Email Address=polymath@hax.al
+Identity=polymath (hax.al)
+Image Location=
+Inline Signature=
+Name=polymath
+Override Encryption Defaults=false
+Signature Enabled=false
+Transport=244712311
+uoid=1934835113
+
+[Identity #1]
+Default Domain=polymath
+Disable Fcc=false
+Identity=Arianit
+Image Location=
+Inline Signature=
+Name=Arianit
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=627913563
+
+[Identity #2]
+Default Domain=polymath
+Disable Fcc=false
+Email Address=arianitkukaj@gmail.com
+Identity=Arianit (gmail.com)
+Image Location=
+Inline Signature=
+Name=Arianit
+Override Encryption Defaults=false
+Signature Enabled=false
+Transport=1816730627
+uoid=961255917

@@ -1,0 +1,12 @@
+[cache]
+AccountIdentity=1934835113
+IntervalCheckTime=60
+TrashCollectionMigrated=true
+UseDefaultIdentity=false
+
+[network]
+Authentication=0
+ImapPort=995
+ImapServer=mail.hax.al
+SubscriptionEnabled=true
+UserName=polymath@hax.al

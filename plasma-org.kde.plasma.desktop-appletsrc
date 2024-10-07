@@ -112,7 +112,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][57][Applets][106][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 
 [Containments][57][Applets][107][Configuration]
 PreloadWeight=26
@@ -228,7 +228,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][78][Applets][81][Configuration][General]
-launchers=preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.gajim.Gajim.desktop,applications:org.telegram.desktop.desktop,applications:org.mozilla.Thunderbird.desktop,file:///var/lib/flatpak/exports/share/applications/com.mikrotik.WinBox.desktop,file:///var/lib/flatpak/exports/share/applications/com.rustdesk.RustDesk.desktop,applications:com.discordapp.Discord.desktop,applications:virt-manager.desktop,file:///var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop
+launchers=preferred://filemanager,preferred://browser,applications:org.kde.konsole.desktop,applications:org.gajim.Gajim.desktop,applications:org.telegram.desktop.desktop,file:///var/lib/flatpak/exports/share/applications/com.mikrotik.WinBox.desktop,file:///var/lib/flatpak/exports/share/applications/com.rustdesk.RustDesk.desktop,applications:com.discordapp.Discord.desktop,applications:virt-manager.desktop,file:///var/lib/flatpak/exports/share/applications/com.obsproject.Studio.desktop
 
 [Containments][78][Applets][82]
 immutability=1

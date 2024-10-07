@@ -1,0 +1,9 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=polymath@hax.al
+FullName=polymath
+Organization=
+ReplyAddr=
+ServerType=
