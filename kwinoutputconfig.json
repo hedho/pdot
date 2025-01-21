@@ -2,6 +2,7 @@
     {
         "data": [
             {
+                "allowSdrSoftwareBrightness": false,
                 "autoRotation": "InTabletMode",
                 "brightness": 1,
                 "colorProfileSource": "sRGB",

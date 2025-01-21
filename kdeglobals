@@ -137,7 +137,7 @@ DirSelectDialog Size=820,584
 History Items[$e]=file:$HOME/Downloads
 
 [General]
-ColorSchemeHash=4a48bd34ba53d580d8594cb0216221e77518509f
+ColorSchemeHash=babca25f3a5cf7ece26a85de212ab43d0a141257
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop

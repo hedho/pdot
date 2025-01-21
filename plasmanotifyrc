@@ -4,6 +4,9 @@ Seen=true
 [Applications][im.nheko.Nheko]
 Seen=true
 
+[Applications][io.webtorrent.WebTorrent]
+Seen=true
+
 [Applications][org.gajim.Gajim]
 Seen=true
 

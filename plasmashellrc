@@ -21,6 +21,7 @@ minLength=1366
 
 [PlasmaViews][Panel 51]
 floating=0
+panelOpacity=0
 
 [PlasmaViews][Panel 51][Defaults]
 thickness=34
