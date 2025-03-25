@@ -1,2 +1,6 @@
 [General]
 AirplaneModeEnabled=false
+HotspotConnectionPath=
+ManageVirtualConnections=true
+SystemConnectionsByDefault=false
+UnlockModemOnDetection=true

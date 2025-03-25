@@ -22,3 +22,20 @@
 
 2024/10/07 (23:17:17) | ===> btop++ v.1.4.0
 2024/10/07 (23:17:17) | WARNING: Intel GPU: Failed to initialize PMU
+
+2024/12/03 (14:54:40) | ===> btop++ v.1.4.0
+2024/12/03 (14:54:40) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/02 (19:54:09) | ===> btop++ v.1.4.0
+2025/02/02 (19:54:09) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/02/02 (19:54:13) | ===> btop++ v.1.4.0
+2025/02/02 (19:54:13) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/01 (23:51:34) | ===> btop++ v.1.4.0
+2025/03/01 (23:51:34) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/01 (23:51:51) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/05 (16:38:29) | ===> btop++ v.1.4.0
+2025/03/05 (16:38:29) | WARNING: Intel GPU: Failed to initialize PMU
+2025/03/05 (16:39:33) | WARNING: Failed to join _runner thread on exit!

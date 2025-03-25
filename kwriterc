@@ -17,3 +17,9 @@ Show Whole Bracket Expression=false
 Text Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
 Text Font Features=
 Word Wrap Marker=false
+
+[KTextEditor::Search]
+Search History=admin
+
+[MainWindow]
+1920x1080 screen: Window-Maximized=true

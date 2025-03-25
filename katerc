@@ -18,6 +18,9 @@ Text Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
 Text Font Features=
 Word Wrap Marker=false
 
+[MainWindow]
+1920x1080 screen: Window-Maximized=true
+
 [filetree]
 editShade=31,81,106
 listMode=false

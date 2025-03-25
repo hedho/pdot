@@ -1,0 +1,14 @@
+[/home/polymath/.local/share/plasma-vault/arianit.enc]
+activities=
+backend=cryfs
+lastError=Unknown device (code: 1)
+lastStatus=2
+mountPoint=/home/polymath/Vaults/arianit
+name=arianit
+offlineOnly=false
+
+[EncryptedDevices]
+/home/polymath/.local/share/plasma-vault/arianit.enc=true
+
+[UI-notice]
+SkipNotice-cryfs-message=false

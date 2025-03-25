@@ -20,8 +20,8 @@ maxLength=1366
 minLength=1366
 
 [PlasmaViews][Panel 51]
-floating=0
-panelOpacity=0
+floating=1
+panelOpacity=2
 
 [PlasmaViews][Panel 51][Defaults]
 thickness=34
